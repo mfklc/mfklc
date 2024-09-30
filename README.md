@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mustafa Kılıç</h1>
 <h3 align="center">Computer engineering student at Celal Bayar University.</h3>
 
-- 🌱 I’m currently learning **Spring/ Spring Boot**
-
 - 📫 How to reach me **klcm51@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
